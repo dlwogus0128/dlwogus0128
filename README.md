@@ -11,7 +11,7 @@
 
 ✦　SOPT 31st iOS Part `2022.09 ~ 2023.01`  
 ✦　아주대학교 코딩교육봉사동아리 SWeat 회장 ㆅ `2023.01 ~ 2024.01`  
-✦　Pixelo iOS Developer Intern `2023.12 ~ 2024.02`  
+✦　Pixelro iOS Developer Intern `2023.12 ~ 2024.02`  
 
 ੈ‧˚ੈ✩‧₊˚ੈ*:ﾟ*｡.⋆·ฺᐝ.∗̥⁺˚ੈ‧˚ੈ✩‧₊˚ੈ*:ﾟ*｡.⋆·ฺᐝ.∗̥⁺˚
 

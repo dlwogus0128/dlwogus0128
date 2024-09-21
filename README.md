@@ -8,7 +8,7 @@
 
 ### Contact　.｡o♡( ⸝⸝･໐･⸝⸝ )
 
-<a href="https://dlwogus0128.github.io/" target="_blank"><img src="https://img.shields.io/badge/blog-8FB0C6?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="https://dlwogus0128.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-8FB0C6?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://www.instagram.com/reenact.archive/" target="_blank"><img src="https://img.shields.io/badge/instagram-8FB0C6?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="dlwougs0128@ajou.ac.kr" target="_blank"><img src="https://img.shields.io/badge/mail-8FB0C6?style=flat-square&logo=Gmail&logoColor=white"/></a>
 

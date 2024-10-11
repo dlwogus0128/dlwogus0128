@@ -1,31 +1,30 @@
-<div align="center">
+### JaeHyun Lee
 
-### About Me　◡̈ 
+👀 열심히 사과 먹는 중 ..
 
-✦　아주대학교 소프트웨어학과 재학 중입니다.  
+<br>
 
-ੈ‧˚ੈ✩‧₊˚ੈ*:ﾟ*｡.⋆·ฺᐝ.∗̥⁺˚ੈ‧˚ੈ✩‧₊˚ੈ*:ﾟ*｡.⋆·ฺᐝ.∗̥⁺˚
+### Projects
 
-### Contact　.｡o♡( ⸝⸝･໐･⸝⸝ )
-
-<a href="https://dlwogus0128.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-8FB0C6?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a href="https://www.instagram.com/reenact.archive/" target="_blank"><img src="https://img.shields.io/badge/instagram-8FB0C6?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="dlwougs0128@ajou.ac.kr" target="_blank"><img src="https://img.shields.io/badge/mail-8FB0C6?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-ੈ‧˚ੈ✩‧₊˚ੈ*:ﾟ*｡.⋆·ฺᐝ.∗̥⁺˚ੈ‧˚ੈ✩‧₊˚ੈ*:ﾟ*｡.⋆·ฺᐝ.∗̥⁺˚
-
-&nbsp;
-
-╭ ◜◝ ͡ ◜◝ ͡ ◜◝ ͡ ◜◝ ͡ ◜◝ ͡ ◜◝ ͡ ◜◝╮  
-이걸 읽는..　당신에게..  
-╰ ◟◞ ͜ ◟◞ ͜ ◟◞ ͜ ◟◞ ͜ ◟◞ ͜ ◟◞ ͜ ◟◞╯  
-O    
-°   
-　　　　　　　　　오늘 하루도      
-ᕱ _ᕱ 　　　　행복하세요   ➳✩⡱  
-つ⋅⌄⋅)づ⌁⌁❤⌁⌁⋆𖤐⋆♡⌁⋆𖤐⋆♡
-</div>
-&nbsp;
+- [SOPT-iOS](https://github.com/sopt-makers/SOPT-iOS) - IT 연합동아리 SOPT 공식앱 `(24.09 ~ ing)`
+- [약속시간-iOS](https://github.com/Ajou-CESCO/PillinTime-iOS) - 복약부터 신체 기록까지, 원거리 중장년층 건강관리 서비스  `(24.03 ~ 24.07)`
+- [ToME-iOS](https://github.com/Ajou-FromUS/ToME-iOS) - 나를 위한 웰니스 기록 서비스  `(23.09 ~ 23.12)`
+- [Runnect-iOS](https://github.com/Runnect/Runnect-iOS) - 점과 점으로, 코스와 코스로 연결되는 너와 나의 러닝 경험  `(22.12 ~ 23.06)`
 
 
+<br>
 
+### Experiences
+
+- SOPT Makers iOS 챕터 `(24.09 ~ ing)`
+- Pixelo iOS Developer Intern `(23.12 ~ 24.02)`
+- SOPT 31th iOS 챕터 `(22.09 ~ 23.02)`
+
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/dlwogus0128?pet-id=632554674332463437"
+    width="300"
+    height="200"
+  />
+</a>

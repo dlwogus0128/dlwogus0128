@@ -17,7 +17,7 @@
 ### Experiences
 
 - SOPT Makers iOS 챕터 `(24.09 ~ ing)`
-- Pixelo iOS Developer Intern `(23.12 ~ 24.02)`
+- Pixelro iOS Developer Intern `(23.12 ~ 24.02)`
 - SOPT 31th iOS 챕터 `(22.09 ~ 23.02)`
 
 
